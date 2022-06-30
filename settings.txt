@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Ulugbek Shernazarov: Python developer and entusiast",
+"description": "Ulugbek Shernazarov - portfolio, resume and blog of Python developer",
+"keywords": "Web-development on Python, Backend on Django and Flask",
+"name": "Ulugbek Shernazarov",
+"tag1":"Enthusiast and developer",
+"tag2":"in Python",
+"sect1":"Main",
+"sect2":"Resume",
+"sect3":"Portfolio",
+"sect4":"Blog",
+"sect5":"Contacts",
+"telegram":"https://t.me/alwayswanttofly",
+"github":"https://github.com/eracoding",
+"linkedin":"https://www.linkedin.com/in/ulugbek-shernazarov-9343831a8/",
+"email":"mailto:usernazarov@gmail.com",
+"city":"Tashkent"
+}
